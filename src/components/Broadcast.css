@@ -1,0 +1,11 @@
+.title {
+  padding: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0 0 30px -1px whitesmoke;
+  border: 1px solid whitesmoke;
+}
+
+.title:hover,
+.active {
+  border: 1px solid whitesmoke;
+}
